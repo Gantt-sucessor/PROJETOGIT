@@ -1,0 +1,1 @@
+print("Aqui tem corajem caba da peste")
